@@ -46,6 +46,8 @@ end
 
 group :test do
   gem 'database_cleaner', '~> 1.7'
+  gem 'guard'
+  gem 'guard-rspec'
   gem "nyan-cat-formatter"
   gem 'rails-controller-testing'
   gem 'shoulda-matchers', '~> 3.1'
