@@ -1,24 +1,23 @@
-# README
+# :nerd_face: Welcome to my side project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Well, basically, as I'm currently unemployed, that's my main project :tada:
 
-Things you may want to cover:
+## What's the plan
 
-* Ruby version
+I'd like to do a twitter-like application. I'll start by following Michael Hartl's guide (basics are good), mainly because he implements a lots of tests and I want to muscle this up :muscle:
+After finishing the tutorial, I'll add the images on posts and profiles, possibility to "retweet" the posts, etc, etc. 
 
-* System dependencies
 
-* Configuration
+## What I did
 
-* Database creation
+```
+Every time I implement something new I'll brag about it here.
+```
 
-* Database initialization
+## And what's next ?
 
-* How to run the test suite
+I'd like to try a little bit of React so that's my long term goal.
 
-* Services (job queues, cache servers, search engines, etc.)
+Looking forward to discussing with you !
 
-* Deployment instructions
-
-* ...
+Have a nice lurking :eyes:
