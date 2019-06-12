@@ -6,20 +6,6 @@ RSpec.describe StaticPagesController, type: :controller do
   render_views
   let(:base_title) { 'Ruby on Rails Tutorial Sample App' }
 
-  describe 'home page' do
-    before do
-      get :home
-    end
-
-    it "gets home" do
-      expect(response).to have_http_status(:success)
-    end
-
-    it "home has title" do
-      expect(response.body).to have_title(base_title.to_s)
-    end
-  end
-
   describe 'help page' do
     before do
       get :help
